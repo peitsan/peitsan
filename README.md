@@ -28,7 +28,7 @@ I have a certain understanding of the back-end language, and I am familiar with 
 
 - Awards
 
-** 2021
+** 2021 **
 
 *** second award
 
