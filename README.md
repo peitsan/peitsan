@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @peitsan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I’m @peitsan, from Shenzhen, P
 
-
-Education background
+- Education background
 
 Undergraduate: Robot Engineering of Chongqing University of Posts and Telecommunications
 
@@ -13,15 +8,15 @@ Undergraduate: Robot Engineering of Chongqing University of Posts and Telecommun
 
 Ranking: 1/57
 
-Research direction
+- Research direction
 
-It mainly studies machine learning, image processing, etc,
+It mainly studies Machine Learning, Image processing, etc,
 
 He is also interested in software engineering and algorithm optimization.
 
 
 
-Internship experience
+- Internship experience
 
 Front end of Bluemountain Studio
 
@@ -31,49 +26,54 @@ As an assistant in the front end department, maintain the common Web application
 
 I have a certain understanding of the back-end language, and I am familiar with the hardware design.
 
-Awards
+- Awards
 
-two thousand and twenty-one
+-- 2021
 
-second award
+--- second award
 
 MathorCup College Mathematical Modeling Challenge
 
-third award
+--- third award
 
 "Huashu Cup" National Undergraduate Mathematical Modeling Competition
 
-second award
+--- second award
 
 May Day Mathematical Modeling Contest
 
-First class scholarship
+--- First class scholarship
 
-national scholarship
+--- National scholarship of Freshman year
 
-Freshman year
+-- 2022
 
-two thousand and twenty-two
-
-the first prize
+the First prize
 
 "Higher Education Society Cup" National Undergraduate Mathematical Modeling Competition Chongqing
 
-contact information
+- Contact information
 
-E-mail
+-- E-mail
 
 reality3iiru@gmail.com
 
 reality3iiru@163.com
 
-address
+-- Blog:
+http://www.liiru.com:4000/4
+
+-- QQ communication group:
+801179419
+
+- Address
 
 Chongqing University of Posts and Telecommunications, No. 2 Chongwen Road, Nan'an District, Chongqing 400065
 
-QQ communication group
 
-eight hundred and one million one hundred and seventy-nine thousand four hundred and nineteen
+
+
+
 
 
 <!---
