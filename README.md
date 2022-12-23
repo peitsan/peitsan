@@ -28,43 +28,37 @@ I have a certain understanding of the back-end language, and I am familiar with 
 
 - Awards
 
-** 2021 **
+  - 2021 
 
-*** second award
+    - second award
+    MathorCup College Mathematical Modeling Challenge
 
-MathorCup College Mathematical Modeling Challenge
+    - third award
+    "Huashu Cup" National Undergraduate Mathematical Modeling Competition
 
-*** third award
+    - second award
+    May Day Mathematical Modeling Contest
+    
+    - First class scholarship
 
-"Huashu Cup" National Undergraduate Mathematical Modeling Competition
+    - National scholarship of Freshman year
 
-*** second award
+  - 2022
 
-May Day Mathematical Modeling Contest
-
-*** First class scholarship
-
-*** National scholarship of Freshman year
-
-** 2022
-
-the First prize
-
-"Higher Education Society Cup" National Undergraduate Mathematical Modeling Competition Chongqing
+    - the First prize
+    "Higher Education Society Cup" National Undergraduate Mathematical Modeling Competition Chongqing
 
 - Contact information
+  
+  - E-mail
+  reality3iiru@gmail.com
+  reality3iiru@163.com
+  
+  - Blog:
+    http://www.liiru.com:4000/
 
-** E-mail
-
-reality3iiru@gmail.com
-
-reality3iiru@163.com
-
-** Blog:
-http://www.liiru.com:4000/4
-
-** QQ communication group:
-801179419
+  - QQ communication group:
+  801179419
 
 - Address
 
