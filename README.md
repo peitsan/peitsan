@@ -1,4 +1,4 @@
--👋 Hi, I’m @peitsan, from Shenzhen, P
+-👋 Hi, I’m @peitsan, from Shenzhen, in P.R.C.
 
 - Education background
 
@@ -28,25 +28,25 @@ I have a certain understanding of the back-end language, and I am familiar with 
 
 - Awards
 
--- 2021
+** 2021
 
---- second award
+*** second award
 
 MathorCup College Mathematical Modeling Challenge
 
---- third award
+*** third award
 
 "Huashu Cup" National Undergraduate Mathematical Modeling Competition
 
---- second award
+*** second award
 
 May Day Mathematical Modeling Contest
 
---- First class scholarship
+*** First class scholarship
 
---- National scholarship of Freshman year
+*** National scholarship of Freshman year
 
--- 2022
+** 2022
 
 the First prize
 
@@ -54,16 +54,16 @@ the First prize
 
 - Contact information
 
--- E-mail
+** E-mail
 
 reality3iiru@gmail.com
 
 reality3iiru@163.com
 
--- Blog:
+** Blog:
 http://www.liiru.com:4000/4
 
--- QQ communication group:
+** QQ communication group:
 801179419
 
 - Address
