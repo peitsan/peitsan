@@ -47,8 +47,14 @@ I have a certain understanding of the back-end language, and I am familiar with 
 
     - the First prize
     "Higher Education Society Cup" National Undergraduate Mathematical Modeling Competition Chongqing
+    
+    - the First prize
+    "Asia Pacific Oceam Country" Mathematical Modeling Competition
+    
+     - Meritorious  
+    "Shuwei" International Mathematical Modeling Competition
 
-- Contact information
+- Contact information 
   
   - E-mail
   reality3iiru@gmail.com
