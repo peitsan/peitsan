@@ -30,15 +30,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<div>
 <div align="left" flex="column" justifyContent="space-between">
     <a width="16%" href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
     <a width="16%" href="https://www.scholat.com/peitsan.cn2"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
     <a width="16%" href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a width="16%" href="https://juejin.cn/user/4473276866769400"><img src="https://img.shields.io/badge/Juejin-掘金-lightblue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img width="16%" src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img  src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+</div>
 <p align="center"><b>Frontier to Unite Will Make Our Better Place</b></p>
 </div>
 <!---
