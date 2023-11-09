@@ -12,14 +12,16 @@
 [![peitsan](https://github-profile-trophy.vercel.app/?username=peitsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
  <h2>Hi，look there 👋 </h2>
-
- 😘 My name is Peitsan Lin, a frontend developer. 😍
-
- 🔭 I’m currently studying front-end by myself.
+  <div>
+   😘 My name is Peitsan Lin, a frontend developer. 😍
+   
+   🔭 I’m currently studying front-end by myself.
 
  💬 If you have any questions. Please feel free to let me know！
 
  📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com
+  </div>
+
 </div>
 
 [![petsan-github](https://github-readme-stats.vercel.app/api?username=peitsan)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,7 +32,7 @@
 </div>
 
 
-<div alignItems="auto">
+<div textAlign="justify">
     <a href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
     <a href="https://www.scholat.com/peitsan.cn2"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
     <a href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
