@@ -1,81 +1,44 @@
--👋 Hi, I’m @peitsan, from Shenzhen, in P.R.C.
 
-- Education background
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=How Are You!;I'm Peitsan. &center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
-Undergraduate: Robot Engineering of Chongqing University of Posts and Telecommunications
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
-2021/09 -
+[![peitsan](https://github-profile-trophy.vercel.app/?username=petisan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Hi，look there 👋
 
-Ranking: 1/57
+ 😘 My name is Peitsan Lin, a frontend developer. 😍
 
-- Research direction
+ 🔭 I’m currently studying front-end by myself.
 
-It mainly studies Machine Learning, Image processing, etc,
+ 💬 If you have any questions. Please feel free to let me know！
 
-He is also interested in software engineering and algorithm optimization.
-
-
-
-- Internship experience
-
-Front end of Bluemountain Studio
-
-2021/09 - present
-
-As an assistant in the front end department, maintain the common Web applications of the school
-
-I have a certain understanding of the back-end language, and I am familiar with the hardware design.
-
-- Awards
-
-  - 2021 
-
-    - second award
-    MathorCup College Mathematical Modeling Challenge
-
-    - third award
-    "Huashu Cup" National Undergraduate Mathematical Modeling Competition
-
-    - second award
-    May Day Mathematical Modeling Contest
-    
-    - First class scholarship
-
-    - National scholarship of Freshman year
-
-  - 2022
-
-    - the First prize
-    "Higher Education Society Cup" National Undergraduate Mathematical Modeling Competition Chongqing
-    
-    - the First prize
-    "Asia Pacific Oceam Country" Mathematical Modeling Competition
-    
-     - Meritorious  
-    "Shuwei" International Mathematical Modeling Competition
-
-- Contact information 
-  
-  - E-mail
-  reality3iiru@gmail.com
-  reality3iiru@163.com
-  
-  - Blog:
-    http://www.liiru.com:4000/
-
-  - QQ communication group:
-  801179419
-
-- Address
-
-Chongqing University of Posts and Telecommunications, No. 2 Chongwen Road, Nan'an District, Chongqing 400065
+ 📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com
 
 
+[![petsan-github](https://github-readme-stats.vercel.app/api?username=peitsan)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=peitsan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
-
-
-
+<div align="center">
+    <a href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
+    <a href="https://www.scholat.com/peitsan.cn2"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
+    <a href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://juejin.cn/user/4473276866769400"><img src="https://img.shields.io/badge/Juejin-掘金-lightblue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+<p><b>Frontier to Unite Will Make Our Better Place</b></p>
+</div>
 <!---
 peitsan/peitsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
