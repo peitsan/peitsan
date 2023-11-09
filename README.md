@@ -12,15 +12,14 @@
 [![peitsan](https://github-profile-trophy.vercel.app/?username=peitsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
  <h2>Hi，look there 👋 </h2>
-  <div>
-   😘 My name is Peitsan Lin, a frontend developer. 😍
+  <div align="center">😘 My name is Peitsan Lin, a frontend developer. 😍</div>
    
-   🔭 I’m currently studying front-end by myself.
+  <div align="center">   🔭 I’m currently studying front-end by myself.</div>
 
- 💬 If you have any questions. Please feel free to let me know！
+  <div align="center"> 💬 If you have any questions. Please feel free to let me know！</div>
 
- 📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com
-  </div>
+ <div align="center">📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com</div>
+  
 
 </div>
 
@@ -32,7 +31,7 @@
 </div>
 
 
-<div textAlign="justify">
+<div align="left" flex="column" justifyContent="space-between">
     <a href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
     <a href="https://www.scholat.com/peitsan.cn2"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
     <a href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
@@ -40,7 +39,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<p><b>Frontier to Unite Will Make Our Better Place</b></p>
+<p align="center"><b>Frontier to Unite Will Make Our Better Place</b></p>
 </div>
 <!---
 peitsan/peitsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
