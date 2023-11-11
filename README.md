@@ -7,25 +7,27 @@
     </a>
   </div>
 
-<span diplay="flex-column"> <img width="20%"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img width="18%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img width="25%" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<span diplay="flex-column"> <img width="12%"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img width="10%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img width="14%" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+<img width="9%" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c" />
+<img width="16%" src="https://img.shields.io/badge/-Ros/ubuntu-yellow?style=flat-square&logo=ubuntu" />
+ </span>
+
 
 [![peitsan](https://github-profile-trophy.vercel.app/?username=peitsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  <h2>Hi，look there 👋 </h2>
-<span diplay="flex-column" >
-  <div  align="left"  width="50%">
-  <div>😘 My name is Peitsan Lin, a frontend developer. 😍</div>
-   
-  <div >   🔭 I’m currently studying front-end by myself.</div>
+<span diplay="flex-column">
+  <p  width="50%">
+😘 My name is Peitsan Lin, a frontend developer. 😍 
 
-  <div> 💬 If you have any questions. Please feel free to let me know！</div>
+🔭 I’m currently studying front-end by myself.
 
- <div>📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com</div>
- </div>
-  <div align="right" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   </div>
+💬 If you have any questions. Please feel free to let me know！
 
+📫 Contact at me: 🐧1649009645 📧 linpc@cqeru.com
+ </p>
+ 
+   <!-- </p> -->
 </span>
 
 
@@ -43,6 +45,9 @@
     <img  src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 </div>
+   <div align="center" width="50%">
+ <img position="relative" src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   </div>
 <p align="center"><b>Frontier to Unite Will Make Our Better Place</b></p>
 </div>
 <!---
