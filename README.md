@@ -10,9 +10,10 @@
 <span diplay="flex-column"> <img width="20%"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img width="18%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img width="25%" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
 [![peitsan](https://github-profile-trophy.vercel.app/?username=peitsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<div align="center" display="flex column">
+
  <h2>Hi，look there 👋 </h2>
-<div align="left" width="50%">
+<span diplay="flex-column" >
+  <div  align="left"  width="50%">
   <div>😘 My name is Peitsan Lin, a frontend developer. 😍</div>
    
   <div >   🔭 I’m currently studying front-end by myself.</div>
@@ -20,14 +21,12 @@
   <div> 💬 If you have any questions. Please feel free to let me know！</div>
 
  <div>📫 Contact at me: 🐧1649009645 📧linpc@cqeru.com</div>
+ </div>
   <div align="right" width="50%">
-  <!-- <img src="https://streak-stats.demolab.com?user=peitsan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   </div>
 
-</div>
-
-</div>
+</span>
 
 
 
