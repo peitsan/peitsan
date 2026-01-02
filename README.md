@@ -18,13 +18,13 @@
  <h2>Hi，look there 👋 </h2>
 <span diplay="flex-column">
   <p  width="50%">
-😘 My name is Peitsan Lin, a frontend developer. 😍 
+😘 My name is Paxon Lam, a Ph.D student at South China University of Technology. 😍 
 
-🔭 I’m currently studying front-end by myself.
+🔭 My Skills: Robotics, Frontend, DevOps et al. Coding Stacks: ROS C++, OpenCV, Python, Golang, React, Vue2/3.
 
 💬 If you have any questions. Please feel free to let me know！
 
-📫 Contact at me: 🐧1649009645 📧 linpc@cqeru.com
+📫 Contact at me: 🐧1649009645 📧 paxon.lam@gmail.com
  </p>
  
    <!-- </p> -->
@@ -37,8 +37,8 @@
 
 <div>
 <div align="center" flex="column" justifyContent="space-between">
-    <a width="16%" href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
-    <a width="16%" href="https://www.scholat.com/peitsan.cn2"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
+    <!-- <a width="16%" href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp; -->
+    <a width="16%" href="https://www.researchgate.net/profile/Peican-Lin"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
     <a width="16%" href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a width="16%" href="https://juejin.cn/user/4473276866769400"><img src="https://img.shields.io/badge/Juejin-掘金-lightblue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -48,7 +48,7 @@
    <div align="center" width="50%">
  <img position="relative" src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
    </div>
-<p align="center"><b>Frontier to Unite Will Make Our Better Place</b></p>
+<p align="center"><b>Be a Tough Guy.</b></p>
 </div>
 <!---
 peitsan/peitsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
