@@ -79,7 +79,7 @@
 [![Bilibili](https://img.shields.io/badge/-Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/88631712)
 [![Juejin](https://img.shields.io/badge/-掘金-1E90FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/4473276866769400)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paxon.lam@gmail.com)
-[![QQ](https://img.shields.io/badge/-QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white)(mailto:1649009645)
+[![QQ](https://img.shields.io/badge/-QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white)](mailto:1649009645@qq.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peitsan)
 
 </div>
