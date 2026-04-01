@@ -1,55 +1,82 @@
 
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://liiru.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=How Are You!;I'm Peitsan. &center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
 
-<span diplay="flex-column"> <img width="12%"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img width="10%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img width="14%" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-<img width="9%" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c" />
-<img width="16%" src="https://img.shields.io/badge/-Ros/ubuntu-yellow?style=flat-square&logo=ubuntu" />
- </span>
+<!-- 动态打字效果 + 机器人主题 -->
+![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00D9FF&background=0D111700&center=true&width=500&lines=Ph.D Candidate in Robotics 🤖;SCUT · Guangzhou, China 🇨🇳;Research: SLAM · Computer Vision · Autonomous Driving)
 
+---
 
-[![peitsan](https://github-profile-trophy.vercel.app/?username=peitsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔭 Research Interests
 
- <h2>Hi，look there 👋 </h2>
-<span diplay="flex-column">
-  <p  width="50%">
-😘 My name is Paxon Lam, a Ph.D student at South China University of Technology. 😍 
+> **Robotic Perception** · **Simultaneous Localization and Mapping (SLAM)** · **Computer Vision** · **Motion Planning**
 
-🔭 My Skills: Robotics, Frontend, DevOps et al. Coding Stacks: ROS C++, OpenCV, Python, Golang, React, Vue2/3.
+---
 
-💬 If you have any questions. Please feel free to let me know！
+## ⚙️ Tech Stack
 
-📫 Contact at me: 🐧1649009645 📧 paxon.lam@gmail.com
- </p>
- 
-   <!-- </p> -->
-</span>
+### Robotics & AI
+<img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
+### Full-Stack & DevOps
+<img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 
+---
 
-[![petsan-github](https://github-readme-stats.vercel.app/api?username=peitsan)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=peitsan&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&icon_color=00D9FF" alt="Paxon GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&layout=donut&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<div>
-<div align="center" flex="column" justifyContent="space-between">
-    <!-- <a width="16%" href="https://liiru.com"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp; -->
-    <a width="16%" href="https://www.researchgate.net/profile/Peican-Lin"><img src="https://img.shields.io/badge/Scholar-学术-green" /></a>&emsp;
-    <a width="16%" href="https://space.bilibili.com/88631712"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a width="16%" href="https://juejin.cn/user/4473276866769400"><img src="https://img.shields.io/badge/Juejin-掘金-lightblue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img  src="https://komarev.com/ghpvc/?username=peitsan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=peitsan&theme=tokyo_night)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 GitHub Campus Expert
+- 📚 Published Research Papers in Robotics & Computer Vision
+- 🌍 Open Source Contributor
+- ⚡ Code for Autonomous Driving Challenges
+
+---
+
+## 📫 Contact & Social
+
+<div align="center">
+
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Peican-Lin)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/88631712)
+[![Juejin](https://img.shields.io/badge/-掘金-1E90FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/4473276866769400)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paxon.lam@gmail.com)
+[![QQ](https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](mailto:1649009645)
+
+<img src="https://komarev.com/ghpvc/?username=peitsan&label=Profile Views&color=00D9FF&style=flat" alt="Views" />
+
 </div>
-   <div align="center" width="50%">
- <img position="relative" src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   </div>
-<p align="center"><b>Be a Tough Guy.</b></p>
-</div>
+
+---
+
+> *「The best way to predict the future is to create it.」* · Paxon Lam
+
+---
+
 <!---
 peitsan/peitsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
