@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Paxon Lam (林沛灿)
+# 👋 Hello, I'm Paxon Lam.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00D9FF&background=0D111700&center=true&width=500&lines=Ph.D Candidate in Robotics 🤖;SCUT · Guangzhou, China 🇨🇳;Research: SLAM · Computer Vision · Autonomous Driving" alt="Typing SVG" />
