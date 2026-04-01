@@ -1,9 +1,7 @@
 
-# 👋 Hello, I'm Paxon Lam.
+# 👋 Hello, I'm Paxon Lam (林沛灿)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00D9FF&background=0D111700&center=true&width=500&lines=Ph.D Candidate in Robotics 🤖;SCUT · Guangzhou, China 🇨🇳;Research: SLAM · Computer Vision · Autonomous Driving" alt="Typing SVG" />
-</p>
+**Ph.D Candidate in Robotics** 🤖 | SCUT · Guangzhou, China 🇨🇳
 
 ---
 
@@ -38,22 +36,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peitsan&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&icon_color=00D9FF&hide=prs,contribs" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&layout=donut&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peitsan&theme=tokyo_night&rank=SS,S,AAA,A,B" alt="Trophy" />
-</p>
+| | |
+|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/Repos-12+-2D333B?style=for-the-badge&logo=github) | ![Followers](https://img.shields.io/github/followers/peitsan?color=00D9FF&style=for-the-badge&logo=github) |
+| ![Stars](https://img.shields.io/github/stars/peitsan?color=FFD700&style=for-the-badge&logo=star) | ![Forks](https://img.shields.io/github/forks/peitsan?color=00D9FF&style=for-the-badge&logo=fork) |
+
+</div>
 
 ---
 
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peitsan&theme=tokyonight&background=0D1117&border=30363D&title_color=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak" />
-</p>
+## 🏆 Achievements
 
 - 🥇 GitHub Campus Expert
 - 📚 Published Research Papers in Robotics & Computer Vision
@@ -79,31 +73,26 @@
 
 ## 📫 Contact & Social
 
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Peican-Lin">
-    <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-  <a href="https://space.bilibili.com/88631712">
-    <img src="https://img.shields.io/badge/-Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://juejin.cn/user/4473276866769400">
-    <img src="https://img.shields.io/badge/-掘金-1E90FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金" />
-  </a>
-  <a href="mailto:paxon.lam@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="mailto:1649009645">
-    <img src="https://img.shields.io/badge/-QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" />
-  </a>
-  <a href="https://github.com/peitsan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peitsan&label=Profile Views&color=00D9FF&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/peitsan?color=00D9FF&style=for-the-badge&logo=github" alt="Followers" />
-</p>
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Peican-Lin)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/88631712)
+[![Juejin](https://img.shields.io/badge/-掘金-1E90FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/4473276866769400)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paxon.lam@gmail.com)
+[![QQ](https://img.shields.io/badge/-QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white)(mailto:1649009645)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peitsan)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://img.shields.io/badge/Views-1.8k+-00D9FF?style=for-the-badge&logo=eye)
+![Followers](https://img.shields.io/github/followers/peitsan?color=00D9FF&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/peitsan?color=00D9FF&style=for-the-badge&logo=star)
+
+</div>
 
 ---
 
