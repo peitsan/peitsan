@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Paxon Lam (林沛灿)
+# 👋 Hello, I'm Paxon Lam.
 
 **Ph.D Candidate in Robotics** 🤖 | SCUT · Guangzhou, China 🇨🇳
 
