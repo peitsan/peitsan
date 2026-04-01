@@ -49,10 +49,9 @@
 
 ## 🏆 Achievements
 
-- 🥇 GitHub Campus Expert
-- 📚 Published Research Papers in Robotics & Computer Vision
+- 🥇 MIUAV Team Leader
+- 📚 Robotics & Computer Vision Deveploper
 - 🌍 Open Source Contributor
-- ⚡ Code for Autonomous Driving Challenges
 
 ---
 
