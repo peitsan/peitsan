@@ -35,11 +35,11 @@
 
 | | |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peitsan&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&icon_color=00D9FF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&layout=donut&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peitsan&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&icon_color=00D9FF&hide=prs) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=peitsan&layout=donut&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=00D9FF&hide_border=true) |
 
 | | |
 |:---:|:---:|
-| ![trophy](https://github-profile-trophy.vercel.app/?username=peitsan&theme=tokyo_night&rank=SS,S,AAA,AAA,A,B) | ![trackgit](https://trackgit.io/badge/peitsan?theme=light) |
+| ![trophy](https://github-profile-trophy.vercel.app/?username=peitsan&theme=tokyo_night&rank=SS,S,AAA,A,B) | ![followers](https://img.shields.io/github/followers/peitsan?color=00D9FF&style=for-the-badge&logo=github) |
 
 ---
 
