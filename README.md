@@ -41,7 +41,7 @@
 | | |
 |:---:|:---:|
 | ![Repos](https://img.shields.io/badge/Repos-12+-2D333B?style=for-the-badge&logo=github) | ![Followers](https://img.shields.io/github/followers/peitsan?color=00D9FF&style=for-the-badge&logo=github) |
-| ![Stars](https://img.shields.io/github/stars/peitsan?color=FFD700&style=for-the-badge&logo=star) |![Coding Years](https://img.shields.io/badge/Coding%20Years-5%20years-brightgreen?style=for-the-badge&logo=codefactor)
+| ![Stars](https://img.shields.io/github/stars/peitsan?color=FFD700&style=for-the-badge&logo=star) |![Coding](https://img.shields.io/badge/Coding%20Years-5%20years-brightgreen?style=for-the-badge&logo=codefactor)
 </div>
 
 ---
